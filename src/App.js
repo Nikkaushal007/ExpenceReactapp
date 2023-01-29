@@ -6,9 +6,9 @@ function App() {
   
   const expenses = [
     { title: 'Toilet Paper', amount: 200.55, date: new Date(2023, 1, 28)},
-    { title: 'Car Insurance', amount: 296.55, date: new Date(2023, 1, 28)},
-    { title: 'Bike Accessories', amount: 244.55, date: new Date(2023, 1, 28)},
-    { title: 'Books', amount: 225.55, date: new Date(2023, 1, 28)},
+    { title: 'Car Insurance', amount: 296.55, date: new Date(2023, 4, 28)},
+    { title: 'Bike Accessories', amount: 244.55, date: new Date(2023, 9, 28)},
+    { title: 'Books', amount: 225.55, date: new Date(2023, 10, 28)},
   ];
   return (
     <div className="App">
